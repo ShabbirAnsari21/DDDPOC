@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DomainDrivenDesignPOC/DomainDrivenDesignPOC/bin/Debug/net6.0
+/DomainDrivenDesignPOC/.vs
+/DomainDrivenDesignPOC/DomainDrivenDesignPOC/obj
+/DomainDrivenDesignPOC/DomainDrivenDesignPOC.Business/bin/Debug/net6.0
+/DomainDrivenDesignPOC/DomainDrivenDesignPOC.Business/obj
+/DomainDrivenDesignPOC/DomainDrivenDesignPOC.Domain/bin/Debug/net6.0
+/DomainDrivenDesignPOC/DomainDrivenDesignPOC.Domain/obj
+/DomainDrivenDesignPOC/DomainDrivenDesignPOC.Infrastructure/bin/Debug/net6.0
+/DomainDrivenDesignPOC/DomainDrivenDesignPOC.Infrastructure/obj
